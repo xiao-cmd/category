@@ -1,0 +1,1 @@
+document.write('小狗狗')
